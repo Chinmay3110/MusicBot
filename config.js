@@ -1,7 +1,7 @@
 // config.js
 module.exports = {
   token: process.env.DISCORD_TOKEN,
-  prefix: "!",
+  prefix: "#",
   enablePrefix: true,
   supportServer: "https://discord.gg/9MVAPpfs8D",
 
@@ -56,9 +56,9 @@ module.exports = {
     nodes: [
       {
         name: "Main Node",
-        host: "lavalinkv4.serenetia.com",
+        host: "pnode.ruthless.qzz.io",
         port: 80,
-        password: "https://seretia.link/discord",
+        password: "senna",
         secure: false
       }
     ]
