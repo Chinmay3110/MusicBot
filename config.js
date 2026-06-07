@@ -56,9 +56,9 @@ module.exports = {
     nodes: [
       {
         name: "Main Node",
-        host: "lava-v4.ajieblogs.eu.org",
+        host: "pnode.ruthless.qzz.io",
         port: 80,
-        password: "https://dsc.gg/ajidevserver",
+        password: "senna",
         secure: false
       }
     ]
