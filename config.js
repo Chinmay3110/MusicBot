@@ -56,9 +56,9 @@ module.exports = {
     nodes: [
       {
         name: "Main Node",
-        host: "pnode.ruthless.qzz.io",
+        host: "lavalinkv4.serenetia.com",
         port: 80,
-        password: "senna",
+        password: "https://dsc.gg/ajidevserver",
         secure: false
       }
     ]
