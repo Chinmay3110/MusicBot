@@ -56,9 +56,9 @@ module.exports = {
     nodes: [
       {
         name: "Main Node",
-        host: "sg2-nodelink.nyxbot.app",
-        port: 3000,
-        password: "nyxbot.app/support",
+        host: "lava-v4.ajieblogs.eu.org",
+        port: 80,
+        password: "https://dsc.gg/ajidevserver",
         secure: false
       }
     ]
