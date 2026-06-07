@@ -56,10 +56,10 @@ module.exports = {
     nodes: [
       {
         name: "Main Node",
-        host: "103.180.237.57",
-        port: 25573,
-        password: "VortexenX",
-        secure: false
+        host: "lavalinkv4.serenetia.com",
+        port: 443,
+        password: "https://dsc.gg/ajidevserver",
+        secure: true
       }
     ]
   }
