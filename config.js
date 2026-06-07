@@ -56,10 +56,10 @@ module.exports = {
     nodes: [
       {
         name: "Main Node",
-        host: "lavalinkv4.serenetia.com",
-        port: 443,
-        password: "https://dsc.gg/ajidevserver",
-        secure: true
+        host: "sg2-nodelink.nyxbot.app",
+        port: 3000,
+        password: "nyxbot.app/support",
+        secure: false
       }
     ]
   }
